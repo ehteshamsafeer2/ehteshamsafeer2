@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ehteshamsafeer2
-- 👀 I’m interested in Artificial Intelligence and Machine Learning, Becuase of interest and passion.
-- 🌱 I’m currently enrolled in BS (CS), my master programming language is called Python.
+- 👀 I’m interested in Artificial Intelligence and Machine Learning, Because of interest and passion.
+- 🌱 I’m currently enrolled in BS (CS), my master programming language is Python.
 - 💞️ I’m looking to collaborate on the project that matches my interest.
 - 📫 How to reach me: ehteshamsafeer@gmail.com -- 00923175208817 (Whatsapp)
 <!---
